@@ -36,6 +36,7 @@ spec:
                 values:
                 - NVIDIA-A10
                 - NVIDIA-GeForce-RTX-3090
+                - NVIDIA-GeForce-RTX-4090
                 - Quadro-RTX-6000
                 - NVIDIA-A100-SXM4-80GB
                 - NVIDIA-A100-PCIE-40GB-MIG-2g.10gb
