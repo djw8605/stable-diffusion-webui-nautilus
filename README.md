@@ -7,8 +7,8 @@ Building the Docker containers:
 ```
 git clone https://github.com/AbdBarho/stable-diffusion-webui-docker.git
 
-docker build -t <project name>/download services/download/
-docker build -t <project name>/auto services/AUTOMATIC1111/
+docker build -t <project name>/services/download/
+docker build -t <project name>/services/AUTOMATIC1111/
 ```
 
 Push to the gitlab registry:
